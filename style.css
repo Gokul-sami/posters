@@ -1,0 +1,24 @@
+body {
+    background-color: grey;
+}
+h1{
+    font-size: 3rem;
+    color: black;
+    text-transform: uppercase;
+}
+.poster{
+    font-family:"Times New Roman"
+    margin-left: 25%;
+    margin-top: 100px;
+    width: 100%;
+    font-family: "Libre Baskerville", serif;
+    background-color: lightgrey;
+    p{
+        color: grey;
+        font-size: 20px;
+    }
+}
+.image_{
+    border: 5px solid black;
+    width: 100%;
+}
